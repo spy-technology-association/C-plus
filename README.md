@@ -1,2 +1,2 @@
-# C-plus
+# C-plus-plus
 A C++ repository.
